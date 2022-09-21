@@ -1,0 +1,17 @@
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\FileMNG.exe.config
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\FileMNG.exe
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\FileMNG.pdb
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.csproj.AssemblyReference.cache
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.Properties.Resources.resources
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.csproj.GenerateResource.cache
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.csproj.CoreCompileInputs.cache
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.exe
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.pdb
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.LogInForm.resources
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.ForgetPasswordForm.resources
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\EntityFramework.dll
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\EntityFramework.xml
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lords\Desktop\GroupProject\FileMNG\FileMNG\obj\Debug\FileMNG.csproj.CopyComplete
